@@ -10,7 +10,7 @@ os.system('clear')
 sleep(1)
 print ("""
 \033[1;97m\tTOMBOL TERMUX
-\033[1;97mCreator:\033[1;92mLuxury
+\033[1;97mCreator:\033[1;92mFahmiApz
 \033[1;97mGithub :\033[1;92mBladeKnife
 \033[90m------------------------------
 """)
